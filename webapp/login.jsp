@@ -21,8 +21,6 @@ response.setDateHeader ("Expires", -1);
 <%
 	// Login.jsp
 	// language test file
-	// Author: Nick Radonic
-	// Date: Feb. 10, 2016
 %>
 
 <%
