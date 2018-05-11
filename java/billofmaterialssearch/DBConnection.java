@@ -1,8 +1,4 @@
 package billofmaterialssearch;
-/*
- * Author: Krystina Poling
- * Data: 2/11/2016
- */
 
 import java.sql.Connection;
 import java.sql.DriverManager;
