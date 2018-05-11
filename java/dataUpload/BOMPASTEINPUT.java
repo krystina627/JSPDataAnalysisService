@@ -1,9 +1,6 @@
 package dataUpload;
 
-// BOMPASTEINPUT.java
 // BOM input at file level paste
-// Author: Nick Radonic
-// Date: Feb. 10, 2016
 
 import java.io.IOException;
 import java.util.ArrayList;
