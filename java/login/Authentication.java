@@ -1,8 +1,4 @@
-/**
- *
- * @author Jeff
- * updated Nick Radonic
- */
+
 package login;
 
 import java.sql.Connection;
