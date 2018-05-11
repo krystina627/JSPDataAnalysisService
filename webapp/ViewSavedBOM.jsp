@@ -2,8 +2,6 @@
 <%
 	// ViewSavedBOM.jsp
 	// View Saved BOM/Previous Search Results
-	// Author: Krystina Poling
-	// Date: Feb. 25, 2016
 %>
 <%// to prevent all framing of this content
 response.addHeader( "X-FRAME-OPTIONS", "DENY" );
