@@ -1,8 +1,3 @@
-/**
- *
- * @author Jeff
- */
-
 package login;
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
