@@ -1,6 +1,5 @@
 package login;
 // UserStatus enum
-// Nick Radonic
 // possible states for userid+password combination
 
 public enum UserStatus {
