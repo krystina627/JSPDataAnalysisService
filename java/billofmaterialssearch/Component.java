@@ -1,13 +1,5 @@
 package billofmaterialssearch;
 
-/*	Component class
- * 	v23.0
- * 	Matt Martino
- * 	Team 5
- *  Feb 27, 2016
- * 
- */
-
 public class Component {
 	String partNum, manufacturer = "", partDescription = "", createDate = "";
 	int componentID, vendorID, quantRequested, quantAvailable, bomID;
