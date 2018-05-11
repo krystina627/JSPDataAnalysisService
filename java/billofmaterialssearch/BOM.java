@@ -1,10 +1,4 @@
 package billofmaterialssearch;
-/*	BOM class
- * 	v3.0
- * 	Matt Martino, SQL cleanup by Krystina Poling
- * 	Team 5
- *  Feb 27, 2016
- */
 
 import java.util.ArrayList;
 import java.sql.*;
