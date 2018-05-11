@@ -20,12 +20,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ page import="java.io.*,java.util.*,java.sql.*"%>
-<%
-	// CreateUser.jsp
-	// data entry screen for account creation
-	// Author: Nick Radonic
-	// Date: Feb. 10, 2016
-%>
+
 <%
 	String userName = (String) session.getAttribute("userName");
 	if (userName == null) {
