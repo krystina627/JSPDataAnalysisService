@@ -2,8 +2,7 @@
 <%
 	// bominput.jsp
 	// BOM input at file level paste
-	// Author: Nick Radonic
-	// Date: Feb. 10, 2016
+	
 %>
 <%// to prevent all framing of this content
 response.addHeader( "X-FRAME-OPTIONS", "DENY" );
