@@ -1,10 +1,7 @@
 package dataUpload;
 /**
  * SaveManualForm 
- * takes in formatted BIM data and writes it out to a BOM structure in the DB
- * Created by Nick Radonic
- * Feb. 25
- * Adapted from Krystina Poling jsp script
+ * takes in formatted BOM data and writes it out to a BOM structure in the DB
  */
 import java.io.IOException;
 import java.util.ArrayList;
