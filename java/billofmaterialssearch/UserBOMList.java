@@ -1,8 +1,6 @@
 /*
 	UserBOMList.jsp
-	Purpose: Populate Dropdown BOM Selection Menus found on main BOM page.
-	Author: Krystina Poling
-	Date: Feb. 21, 2016
+	Purpose: Populate Dropdown BOM Selection Menus found on main BOM page
 */
 
 package billofmaterialssearch;
