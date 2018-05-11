@@ -1,8 +1,6 @@
 <%
 	// ProcessVendorSearch.jsp
 	// Calls BOM Class to Process Vendor Search and Display Results
-	// Author: Krystina Poling
-	// Date: Feb. 28, 2016
 %>
 <%// to prevent all framing of this content
 response.addHeader( "X-FRAME-OPTIONS", "DENY" );
