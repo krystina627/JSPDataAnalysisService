@@ -1,9 +1,4 @@
 package billofmaterialssearch;
-/*
- * Author: Terry Dupont
- * Feb 28, 2016
- * 
- */
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
