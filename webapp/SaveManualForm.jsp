@@ -52,8 +52,6 @@ response.setDateHeader ("Expires", -1);
 <%
 	// SaveManualForm.jsp
 	// Calls BOM class to process and save manual input
-	// Author: Krystina Poling
-	// Date: Feb. 18, 2016
 %>
 <%@ page import="java.sql.*" %>
 <%@ page import="billofmaterialssearch.BOM"%>
