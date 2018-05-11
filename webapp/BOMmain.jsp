@@ -2,8 +2,7 @@
 <%
 	// BOMmain.jsp
 	// Purpose: Main Screen of BOM Application. Links to all functionality
-	// Author: Krystina Poling
-	// Date: Feb. 19, 2016
+	
 %>
 <%// to prevent all framing of this content
 response.addHeader( "X-FRAME-OPTIONS", "DENY" );
