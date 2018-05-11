@@ -2,11 +2,7 @@
 <%
 	// ManualBOM_Input.jsp
 	// Purpose: Form to manually input user's BOM data
-	// Author: Krystina Poling
-	// Date: Feb. 17, 2016
-	// Modified for Servlet connection
-	// Date: Feb: 25
-	// Author: Nick Radonic
+	
 %>
 <%// to prevent all framing of this content
 response.addHeader( "X-FRAME-OPTIONS", "DENY" );
